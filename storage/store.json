@@ -1,0 +1,75 @@
+
+{
+  "home": {
+    "profile": "/images/Avatar.PNG",
+    "description": "Hi, I'm Subhash Shrestha \n Explorer, Cooking with love, Foodie, Enthusiastic programmer. \nI enjoy time spending with computer, this is the reason why I am inclined to learn programming deeply.\nCurrently, I am on the journey to became a Full Stack Developer, flourishing my knowledge about usage modern web development tools, development process, learning programming languages usefulness. And set goal to achieve of writing reliable and effective quality code.\n When I'm not with my computer, at that moment I find myself cracking jokes with my friends.",
+    "resume": "/files/subhash_resume.pdf"
+  },
+  "portfolios": [
+    {
+      "projects": [
+        {
+          "image": "/images/tech-blog.PNG",
+          "summary": "Techblog, is a blogging platform for sharing thoughts, new idea, new events related to technology",
+          "source": "https://github.com/SthaSub/Tech-Blog.git",
+          "live": "https://techblogging.herokuapp.com/"
+        },
+        {
+          "image": "/images/code-quiz.PNG",
+          "summary": "Code Quiz, An online IT quiz challenge to see the how much knowledge you have about IT",
+          "source": "https://github.com/SthaSub/code-quiz.git",
+          "live": "https://github.com/SthaSub/code-quiz"
+        },
+        {
+          "image": "/images/codeNoob.PNG",
+          "summary": "CodeNoob, an Online Q/A Forum for novice coder",
+          "source": "https://github.com/bencyna/codeNoob.git",
+          "live": "https://code-noob.herokuapp.com/"
+        },
+        {
+          "image": "/images/team-profile.PNG",
+          "summary": "Team building, an application to design the unique team displaying their basic information",
+          "source": "https://github.com/SthaSub/team-profile-generator.git",
+          "live": "https://vimeo.com/515954460"
+        }
+      ]
+    },
+    {
+      "skills": [
+        {
+          "skill": "/images/express.png"
+        },
+        {
+          "skill": "/images/node.png"
+        },
+        {
+          "skill": "/images/sequelize.png"
+        },
+        {
+          "skill": "/images/ubuntu_350.jpg"
+        },
+        {
+          "skill": "/images/html.png"
+        },
+        {
+          "skill": "/images/css.png"
+        },
+        {
+          "skill": "/images/git.png"
+        },
+        {
+          "skill": "/images/js.png"
+        },
+        {
+          "skill": "/images/mysql.jpg"
+        }
+      ]
+    }
+  ],
+  "contacts": {
+    "github": "https://github.com/SthaSub",
+    "email": "mailto:subhashshrestha3@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/subhash-shrestha-82462b109?trk=people-guest_people_search-card",
+    "twitter": "https://twitter.com/shasyah_newar"
+  }
+}
