@@ -15,7 +15,7 @@
    ## Contact
    ![contact](./public/images/image/contact.PNG)
 
-   ## License (usually MIT)
+   ## License
    [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    
    ## Live link to deployed app
