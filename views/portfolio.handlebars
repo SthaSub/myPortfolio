@@ -1,0 +1,32 @@
+<section>
+    <h1 class="portfolio-label">projects</h1>
+</section>
+{{#each portfolios as |port|}}
+<section class="projects">
+    {{#each port.projects as |project|}}
+    <section class="card">
+        <h1><img src="{{project.image}}" class="projectImg" alt=""></h1>
+        <summary id="project-summary">{{project.summary}}</summary>
+        <details>
+            <summary>Links</summary>
+            <p>
+                SOURCE: <a href="{{project.source}}" class="details-links">Github</a>
+            </p>
+            <p>
+                LIVE or VIDEO: <a href="{{project.live}}" class="details-links">heroku or vimeo</a>
+            </p>
+        </details>
+    </section>
+    {{/each}}
+</section>
+{{/each}}
+<section>
+    <h1 class="portfolio-label">skills</h1>
+</section>
+{{#each portfolios as |sk|}}
+<section class="skills">
+    {{#each sk.skills as |skil|}}
+    <img src="{{skil.skill}}" alt="skills images" class="skill-img">
+    {{/each}}
+</section>
+{{/each}}
