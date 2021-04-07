@@ -1,0 +1,32 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "This is application only display profile and provides the contact details",
+  "main": "app.js",
+  "scripts": {
+    "test": "N/A",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SthaSub/myPortfolio.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "SthaSub",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "connect-session-sequelize": "^7.0.4",
+    "dotenv": "^8.2.0",
+    "express-handlebars": "^5.2.0",
+    "express-session": "^1.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "bugs": {
+    "url": "https://github.com/SthaSub/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/SthaSub/myPortfolio#readme"
+}
